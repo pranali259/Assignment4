@@ -43,7 +43,7 @@ WARNING!!! WARNING!!!
 		// 'speak' method.
 		// See Lecture 50, part 1
 		for (var i=0, names.length, i++) {
-			var firstLetter = names[i].charAt(0)
+			var firstLetter = names[i].charAt(0);
 			  // STEP 11:
 			  // Retrieve the first letter of the current name in the loop.
 			  // Use the string object's 'charAt' function. Since we are looking for
